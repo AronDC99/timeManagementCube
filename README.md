@@ -4,7 +4,7 @@
 
 Control board - [Arduino Micro]( https://store.arduino.cc/arduino-micro)
 
-Gyroscope - [MPU-6050](https://www.sparkfun.com/products/11028)
+Gyroscope - [6 axis gyro and Acc](http://wiki.seeedstudio.com/Grove-6-Axis_AccelerometerAndGyroscope/)
 
 Bluetooth - [Bluefruit LE UART(BLE)](https://www.adafruit.com/product/2479)
 
