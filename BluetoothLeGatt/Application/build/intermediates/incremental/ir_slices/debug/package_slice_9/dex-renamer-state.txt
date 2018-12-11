@@ -1,4 +1,1 @@
-#Thu Dec 06 16:21:26 GMT 2018
-base.0=E\:\\Everything\\School_athome\\FORR3FV05EU\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\9
-path.0=classes.dex
-renamed.0=classes.dex
+#Tue Dec 11 13:42:50 GMT 2018

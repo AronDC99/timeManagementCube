@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Everything\\School_athome\\FORR3FV05EU\\BluetoothLeGatt\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-am\\values-am.xml",
+            "outputFile": "E:\\Everything\\School_athome\\FORR3FV05EU\\Lokaverkefni\\BluetoothLeGatt\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-am\\values-am.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Yngvi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\dea5e303db4cce601dd11ce551730d88\\res\\values-am\\values-am.xml",

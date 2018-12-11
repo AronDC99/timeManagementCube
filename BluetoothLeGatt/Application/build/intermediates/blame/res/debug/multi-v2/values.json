@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Everything\\School_athome\\FORR3FV05EU\\BluetoothLeGatt\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "E:\\Everything\\School_athome\\FORR3FV05EU\\Lokaverkefni\\BluetoothLeGatt\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Yngvi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\f3ba6b6db53696ff3e19a78c19f6e00e\\res\\values\\values.xml",
@@ -23,6 +23,23 @@
                     }
                 },
                 {
+                    "source": "E:\\Everything\\School_athome\\FORR3FV05EU\\Lokaverkefni\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "16,21,22,24,17,18,19,31,32,33,34,20,23,27,26,28",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "686,954,1002,1114,753,798,863,1415,1464,1519,1562,910,1056,1256,1198,1330",
+                        "endColumns": "66,47,53,82,44,64,46,48,54,42,42,43,57,73,57,59",
+                        "endOffsets": "748,997,1051,1192,793,858,905,1459,1514,1557,1600,949,1109,1325,1251,1385"
+                    },
+                    "to": {
+                        "startLines": "445,446,447,448,459,460,461,462,463,464,465,466,469,470,471,472",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "40516,40583,40631,40685,41044,41089,41154,41201,41250,41305,41348,41391,41559,41617,41691,41749",
+                        "endColumns": "66,47,53,82,44,64,46,48,54,42,42,43,57,73,57,59",
+                        "endOffsets": "40578,40626,40680,40763,41084,41149,41196,41245,41300,41343,41386,41430,41612,41686,41744,41804"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Yngvi\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\248fba2a03d485207f04a1d6509c5a5d\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10",
@@ -40,20 +57,41 @@
                     }
                 },
                 {
-                    "source": "E:\\Everything\\School_athome\\FORR3FV05EU\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml",
+                    "source": "E:\\Everything\\School_athome\\FORR3FV05EU\\Lokaverkefni\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\base-strings.xml",
                     "from": {
-                        "startLines": "16,21,22,24,17,18,19,31,32,33,34,20,23,27,26,28",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "686,954,1002,1114,753,798,863,1415,1464,1519,1562,910,1056,1256,1198,1330",
-                        "endColumns": "66,47,53,82,44,64,46,48,54,42,42,43,57,73,57,59",
-                        "endOffsets": "748,997,1051,1192,793,858,905,1459,1514,1557,1600,949,1109,1325,1251,1385"
+                        "startLines": "18,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "647,700",
+                        "endLines": "18,28",
+                        "endColumns": "52,13",
+                        "endOffsets": "695,971"
                     },
                     "to": {
-                        "startLines": "445,446,447,448,459,460,461,462,463,464,465,466,469,470,471,472",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "40516,40583,40631,40685,41044,41089,41154,41201,41250,41305,41348,41391,41559,41617,41691,41749",
-                        "endColumns": "66,47,53,82,44,64,46,48,54,42,42,43,57,73,57,59",
-                        "endOffsets": "40578,40626,40680,40763,41084,41149,41196,41245,41300,41343,41386,41430,41612,41686,41744,41804"
+                        "startLines": "444,449",
+                        "startColumns": "4,4",
+                        "startOffsets": "40463,40768",
+                        "endLines": "444,458",
+                        "endColumns": "52,13",
+                        "endOffsets": "40511,41039"
+                    }
+                },
+                {
+                    "source": "E:\\Everything\\School_athome\\FORR3FV05EU\\Lokaverkefni\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "from": {
+                        "startLines": "24,20,22,27,29,34",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "768,651,713,849,878,1075",
+                        "endLines": "24,20,22,27,32,39",
+                        "endColumns": "51,60,53,27,12,12",
+                        "endOffsets": "815,707,762,872,1069,1348"
+                    },
+                    "to": {
+                        "startLines": "478,1785,1786,1794,1891,1895",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "42251,128793,128853,129578,137314,137510",
+                        "endLines": "478,1785,1786,1794,1894,1900",
+                        "endColumns": "50,59,52,26,12,12",
+                        "endOffsets": "42297,128848,128901,129600,137505,137783"
                     }
                 },
                 {
@@ -76,7 +114,7 @@
                     }
                 },
                 {
-                    "source": "E:\\Everything\\School_athome\\FORR3FV05EU\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "source": "E:\\Everything\\School_athome\\FORR3FV05EU\\Lokaverkefni\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-dimens.xml",
                     "from": {
                         "startLines": "28,24,23,22,21,20,29",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -90,44 +128,6 @@
                         "startOffsets": "35460,35530,35573,35617,35662,35705,37178",
                         "endColumns": "69,42,43,44,42,41,67",
                         "endOffsets": "35525,35568,35612,35657,35700,35742,37241"
-                    }
-                },
-                {
-                    "source": "E:\\Everything\\School_athome\\FORR3FV05EU\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\base-strings.xml",
-                    "from": {
-                        "startLines": "18,19",
-                        "startColumns": "4,4",
-                        "startOffsets": "647,700",
-                        "endLines": "18,28",
-                        "endColumns": "52,13",
-                        "endOffsets": "695,971"
-                    },
-                    "to": {
-                        "startLines": "444,449",
-                        "startColumns": "4,4",
-                        "startOffsets": "40463,40768",
-                        "endLines": "444,458",
-                        "endColumns": "52,13",
-                        "endOffsets": "40511,41039"
-                    }
-                },
-                {
-                    "source": "E:\\Everything\\School_athome\\FORR3FV05EU\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-styles.xml",
-                    "from": {
-                        "startLines": "24,20,22,27,29,34",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "768,651,713,849,878,1075",
-                        "endLines": "24,20,22,27,32,39",
-                        "endColumns": "51,60,53,27,12,12",
-                        "endOffsets": "815,707,762,872,1069,1348"
-                    },
-                    "to": {
-                        "startLines": "478,1785,1786,1794,1891,1895",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "42251,128793,128853,129578,137314,137510",
-                        "endLines": "478,1785,1786,1794,1894,1900",
-                        "endColumns": "50,59,52,26,12,12",
-                        "endOffsets": "42297,128848,128901,129600,137505,137783"
                     }
                 },
                 {
