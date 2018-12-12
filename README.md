@@ -1,6 +1,6 @@
 # Time management cube
 
-## Hardware ideas
+## Hardware
 
 Control board - [Arduino Micro]( https://store.arduino.cc/arduino-micro)
 
@@ -32,3 +32,16 @@ The app will prompt you for a connection to a bluetooth device and data will sta
 
 ### Other
 Wiring diagrams are shown for the arduino Uno board, the same pins are available on the arduino micro other boards have not been tested by us and therefore some adaptation of hardware or software may be required
+
+
+# Result
+
+In the end we were unfortunately not able to complete this project for a multitude of reasons, despite the project not having been tested with the accelorometer and gyroscope every aspect of the project has been completed to an approved aspect, In theory with a functioning supported accelorometer and gyroscope the project should transmit the raw accelorometer and gyroscope data to the android app.
+
+
+## "Broken" gyroscope
+We had trouble with this [6 axis accelorometer and gyroscope](http://wiki.seeedstudio.com/Grove-6-Axis_AccelerometerAndGyroscope/) despite our best efforts we were unable to get a reliable reading from the module with only an arduino. If we were to use this specific module we would need to have an I2C translator board for the arduino to be able to read the data we also tested a vex robotics gyroscope but that gyroscope had the same problem with the required I2C board.
+
+### Authors
+[Yngvi Leó Þráinsson](https://github.com/DonNinja)
+[Aron Davíð Clausen](https://github.com/arondc99)
