@@ -20,3 +20,4 @@ Bluetooth - [Bluefruit LE UART(BLE)](https://www.adafruit.com/product/2479)
 ## Code setup
 The first step is to download [this zip library](https://github.com/jrowberg/i2cdevlib/zipball/master) and extract I2Cdev and MPU6050 libraries to the arduino compilers library folder located in "C:/Program Files(x86)/Arduino/libraries".
 
+Then it is possible to upload and compile the code on an arduino board of your choice we reccomend the arduino micro because of its size, if you have followed the wiring schematic above correctly you should be able to read the raw accelorometer and gyroscope data in the serial monitor straight from the arduino IDE.
