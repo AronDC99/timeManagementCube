@@ -1,33 +1,3 @@
-/*****************************************************************************/  
-//  HighLevelExample.ino
-//  Hardware:      Grove - 6-Axis Accelerometer&Gyroscope
-//  Arduino IDE:   Arduino-1.65
-//  Author:        Lambor 
-//  Date:          Oct,2015
-//  Version:       v1.0
-//
-//  Modified by: 
-//  Data:        
-//  Description: 
-//
-//  by www.seeedstudio.com
-//
-//  This library is free software; you can redistribute it and/or
-//  modify it under the terms of the GNU Lesser General Public
-//  License as published by the Free Software Foundation; either
-//  version 2.1 of the License, or (at your option) any later version.
-//
-//  This library is distributed in the hope that it will be useful,
-//  but WITHOUT ANY WARRANTY; without even the implied warranty of
-//  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-//  Lesser General Public License for more details.
-//
-//  You should have received a copy of the GNU Lesser General Public
-//  License along with this library; if not, write to the Free Software
-//  Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
-//
-/*******************************************************************************/
-
 #include "SparkFunLSM6DS3.h"
 #include "Wire.h"
 
@@ -67,13 +37,6 @@ void loop()
   Serial.println(myIMU.readFloatGyroY(), 4);
   Serial.print(" Z1 = ");
   Serial.println(myIMU.readFloatGyroZ(), 4);
-
-  //Thermometer  
-  Serial.print("\nThermometer:\n");
-  Serial.print(" Degrees C1 = ");
-  Serial.println(myIMU.readTempC(), 4);
-  Serial.print(" Degrees F1 = ");
-  Serial.println(myIMU.readTempF(), 4);
   
-  delay(1000);
+  delay(500);
 }
