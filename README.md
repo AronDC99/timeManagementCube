@@ -44,4 +44,5 @@ We had trouble with this [6 axis accelorometer and gyroscope](http://wiki.seeeds
 
 ### Authors
 [Yngvi Leó Þráinsson](https://github.com/DonNinja)
+
 [Aron Davíð Clausen](https://github.com/arondc99)
