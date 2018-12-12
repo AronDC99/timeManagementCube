@@ -42,6 +42,9 @@ In the end we were unfortunately not able to complete this project for a multitu
 ## "Broken" gyroscope
 We had trouble with this [6 axis accelorometer and gyroscope](http://wiki.seeedstudio.com/Grove-6-Axis_AccelerometerAndGyroscope/) despite our best efforts we were unable to get a reliable reading from the module with only an arduino. If we were to use this specific module we would need to have an I2C translator board for the arduino to be able to read the data we also tested a vex robotics gyroscope but that gyroscope had the same problem with the required I2C board.
 
+# Finished Box
+![Image of box](https://i.imgur.com/BzAQgAL.jpg)
+
 ### Authors
 [Yngvi Leó Þráinsson](https://github.com/DonNinja)
 
